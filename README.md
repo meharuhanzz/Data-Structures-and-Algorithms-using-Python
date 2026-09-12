@@ -236,9 +236,4 @@ python3 --version   # 3.x
 
 ## Remote
 
-No remote configured yet. To push to GitHub later:
-
-```bash
-git remote add origin <your-repo-url>
-git push -u origin main
-```
+https://github.com/meharuhanzz/dsa
