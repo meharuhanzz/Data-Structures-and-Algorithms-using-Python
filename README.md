@@ -236,4 +236,4 @@ python3 --version   # 3.x
 
 ## Remote
 
-https://github.com/meharuhanzz/dsa
+https://github.com/meharuhanzz/Data-Structures-and-Algorithms-using-Python
